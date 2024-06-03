@@ -1,10 +1,10 @@
 # Running the Game of Life in Rust
 
-This is a simple guide on how to run the Game of Life in Rust. The Game of Life is a cellular automaton proposed by John Horton Conway. It's a simple yet fascinating simulation where cells can be alive or dead, and their state changes based on certain rules.
+This is a simple guide on how to run the Game of Life in Rust. <br>The Game of Life is a cellular automaton proposed by John Horton Conway. <br>It's a simple yet fascinating simulation where cells can be alive or dead, and their state changes based on certain rules.
 
 ## Installation
 
-To run the Game of Life in Rust, you need to have Rust installed on your system. If you haven't installed Rust yet, you can do so by visiting the official Rust installation page.
+To run the Game of Life in Rust, you need to have Rust installed on your system. <br>If you haven't installed Rust yet, you can do so by visiting the official [Rust installation page](https://www.rust-lang.org/tools/install).
 
 ## Running the Game
 
